@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args){
-        double a, b, x0, y0;
+        double a, b, x0, y0, c;
         Scanner sc = new Scanner(System.in);
         System.out.println("Indsæt nu din a og b for linjens ligning:");
         a = sc.nextInt();
